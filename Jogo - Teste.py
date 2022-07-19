@@ -147,7 +147,7 @@ while x == sim:
         x = str(input("\nDeseja continuar? (s)sim/(n)não:"))
         
         
-        opaaa
+        AAAA
         
 
 
