@@ -145,6 +145,10 @@ while x == sim:
         rodada = rodada+1
         x = ""
         x = str(input("\nDeseja continuar? (s)sim/(n)não:"))
+        
+        
+        opaaa
+        
 
 
 
